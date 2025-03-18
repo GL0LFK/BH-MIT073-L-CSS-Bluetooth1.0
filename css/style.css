@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
+
+body {
+    margin: 50px;
+    background-color: #D7E4C0;
+    font-family: "Spectral", serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #74492C;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+h3 {
+    font-family: "Allura", cursive;
+    font-weight: 550;
+    font-size: 3.5em;
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 8px;
+}
+
+dt {
+    font-weight: 900;
+    font-style: italic;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px dotted;
+    width: 70%;
+}
+
+thead th {
+   border-bottom: 1px solid;
+   font-weight: bold;
+}
+
+tbody td {
+    line-height: 1.7rem;
+    font-weight: 400;
+    padding: 5px;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+#harald {
+    float: right;
+    width: 250px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+#haraldblatand {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+ol.romai {
+    list-style-type: upper-roman;
+}
