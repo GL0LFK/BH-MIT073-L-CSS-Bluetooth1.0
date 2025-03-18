@@ -19,8 +19,8 @@ img {
 
 h3 {
     font-family: "Allura", cursive;
-    font-weight: 550;
-    font-size: 3.5em;
+    font-weight: 500;
+    font-size: 3rem;
     margin-top: 0;
     margin-bottom: 20px;
     text-decoration-line: underline;
@@ -40,7 +40,7 @@ table {
     text-align: center;
     vertical-align: middle;
     border: 1px dotted;
-    width: 70%;
+    width: 50%;
 }
 
 thead th {
@@ -56,7 +56,8 @@ tbody td {
 
 blockquote {
     font-style: italic;
-}
+    text-align: justify;
+    text-justify: inter-word;}
 
 #harald {
     float: right;
